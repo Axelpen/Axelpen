@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Axelpen
-- 👀 I’m interested in Rythm Games
+- 👀 I’m interested in Climbing
 - 🌱 I’m currently learning C# and network related stuff
 - 😄 Pronouns: He/Him
 
